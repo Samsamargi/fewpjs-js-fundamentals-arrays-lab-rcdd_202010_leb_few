@@ -9,6 +9,6 @@ const removeFirst =["Milo", "Otis", "Garfield"];
 
 
 array.append('Odie');
-array.prepend('');
+array.prepend('Odie');
 array.removeLast;
 array.removeFirst;
