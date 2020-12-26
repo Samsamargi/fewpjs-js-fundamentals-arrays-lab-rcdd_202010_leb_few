@@ -8,7 +8,7 @@ const removeFirst =["Milo", "Otis", "Garfield"];
 
 
 
-array.append('Odie');
+append.append('Odie');
 array.prepend('Odie');
 array.removeLast;
 array.removeFirst;
