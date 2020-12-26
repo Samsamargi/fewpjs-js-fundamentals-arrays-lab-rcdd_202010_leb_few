@@ -3,4 +3,6 @@ const  array =["Milo", "Otis", "Garfield"];
 
 
 array.append('Odie');
-array.prepend('')
+array.prepend('');
+array.removeLast;
+array.removeFirst;
